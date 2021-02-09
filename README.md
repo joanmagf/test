@@ -5,13 +5,7 @@
 
 párrafo **negrita** _cursiva_ `codigo`
 
-```
-#include <stdi.o>
 
-int main(){
-    printf("hola mon");
-}
-```
 
 ```c
 #include <stdi.o>
